@@ -1,0 +1,10 @@
+2021-01-29 08:37:01.9895|ERROR|Homework.AuthenticationManager|Authentication is not successful. Status code: 401
+2021-01-29 08:37:54.0442|INFO|Homework.AuthenticationManager|Authentication successful. Status code: 200
+2021-01-29 08:38:01.3723|INFO|Homework.ServerManager|Successfully returned 30 records from API. Status code: 200
+2021-01-29 08:38:01.6103|INFO|Homework.DatabaseManager|Cache was purged. 30 entries deleted
+2021-01-29 08:38:01.7079|INFO|Homework.DatabaseManager|Records were inserted successfully
+2021-01-29 08:38:07.4039|INFO|Homework.DatabaseManager|Retrieved 30 objects from database
+2021-01-29 08:38:11.2701|INFO|Homework.DatabaseManager|Retrieved 30 objects from database
+2021-01-29 08:38:13.4255|INFO|Homework.ServerManager|Successfully returned 30 records from API. Status code: 200
+2021-01-29 08:38:13.5185|INFO|Homework.DatabaseManager|Cache was purged. 30 entries deleted
+2021-01-29 08:38:13.5439|INFO|Homework.DatabaseManager|Records were inserted successfully
